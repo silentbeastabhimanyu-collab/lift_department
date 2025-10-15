@@ -59,6 +59,16 @@ The **Silent Beast Lift Department** is not just a gym log — it’s a **living
 | 🔐 **CyberSec** | Protects digital Bharat | 🔒 |
 
 ![IAS Framework](Department_of_IAS_Where_I_Was_Made_15Oct2025.jpg)
+---
+
+### 🏋️ Update – 15 Oct 2025
+**File:** Department_of_Lift_LegPress150kg_15Oct2025.jpg  
+**Description:**  
+150 kg Leg Press (6 reps) performance log under Lift Department.  
+Represents current strength status and progression proof.
+
+![Leg Press 150kg](Department_of_Lift_LegPress150kg_15Oct2025.jpg)
+
 
 ---
 
