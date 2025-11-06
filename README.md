@@ -22,7 +22,14 @@ The **Silent Beast Lift Department** is not just a gym log — it’s a **living
 ### 🧩 1️⃣ The Beginning
 > “Every champion has an origin — a temple, a mentor, and an unbreakable will.”  
 🏛️ **Chauhan’s Body Temple Unisex Gym**  
-🧑‍🏫 Mentored by **Coach Irshad Mohammad**  
+🧑‍🏫 Mentored by **Coach Irshad Mohammad**
+> ![Front Squat - 19 Oct 2025](Front-Squat_18Oct2025_SilentBeast.jpg)
+
+> “Front squat is not just about legs —  
+> it’s about the courage to face the bar,  
+> and the patience to rise with silence.”  
+> — Silent Beast Abhimanyu
+
 
 ![The Foundation](Department_of_Lift_The_Foundation_15Oct2025.jpg)
 
