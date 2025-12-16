@@ -180,4 +180,42 @@ not short-term validation.
 > *“From discipline to data — from gym floor to GitHub.”*  
 > — Silent Beast Abhimanyu 🦾
 
+## Activity
+Post-Execution Walk – Regulation Session
+
+## Date
+16 December 2025
+
+## Context
+This walk was performed immediately after a heavy load deadlift session.
+
+## Purpose
+The purpose of this walk was:
+- nervous system regulation
+- controlled breathing normalization
+- post-load body alignment
+- mental reset after task completion
+
+This was not a casual walk.
+
+## Execution
+- Walk initiated only after coach confirmation
+- No conversation during the walk
+- Pace remained steady and controlled
+- Focus maintained on breathing and posture
+
+## Observation
+- Heart rate stabilized progressively
+- Muscular tension reduced during movement
+- Mental state transitioned from execution to recovery
+
+## Principle Applied
+- Discipline continues after completion
+- Recovery is an active process
+- Every action must have a defined purpose
+- Guidance respected over impulse
+
+## Notes
+This walk is treated as part of the training session,
+not as a separate or optional activity.
 
