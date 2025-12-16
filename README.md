@@ -118,6 +118,64 @@ Mentored by **Coach Irshad Mohammad**
 **Created:** October 2025  
 **Version:** 2.0 – Silent Beast Framework Edition  
 **Departments:** Lift · IAS · Tech · CyberSec  
+# Training Logs
+
+This directory contains factual training records from the Lift Department.
+
+Each log represents a completed session documented for:
+- execution accuracy
+- load handling
+- post-task regulation
+- long-term capacity tracking
+
+These logs are not performance showcases.
+They are discipline records.
+
+---
+
+## Log Entry: Deadlift Session
+
+### Date
+16 December 2025
+
+### Summary
+A heavy load deadlift session was completed under controlled conditions.
+The focus of the session was execution integrity, responsibility under load,
+and post-completion recovery alignment.
+
+### Key Observations
+- Lift executed with full control
+- No celebration or display during execution
+- Post-lift walk performed after coach confirmation
+- Recovery treated as part of the session, not an afterthought
+
+### Bodyweight
+53 kg
+
+### Recorded Load
+137 kg
+
+### Principle Reinforced
+- Completion over recognition
+- Responsibility before expression
+- Guidance over impulse
+- Recovery as an active process
+
+---
+
+## Logging Standard
+
+All future logs in this directory must include:
+- Date
+- Bodyweight
+- Activity performed
+- Load details (if applicable)
+- Execution observation
+- Post-execution action
+- Principle applied
+
+Logs are written to support continuity and long-term discipline,
+not short-term validation.
 
 > *“From discipline to data — from gym floor to GitHub.”*  
 > — Silent Beast Abhimanyu 🦾
