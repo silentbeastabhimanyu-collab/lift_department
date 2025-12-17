@@ -261,7 +261,24 @@ The purpose of this repository is to:
 - Content is uploaded selectively, not daily
 - Feedback is not expected; self-review is the priority
 
----
+---This image documents a heavy pull training moment focused on full-body control.
+
+Key observations:
+- Neutral spine with strong core bracing
+- Stable foot placement and balanced stance
+- Controlled bar path close to the body
+- Grip strength and shoulder stability under load
+- Calm execution despite visible physical strain
+
+Training intent:
+- Build strength with discipline, not momentum
+- Improve posture and tension management
+- Practice composure under physical stress
+- Prepare for future coaching and leadership responsibilities
+
+This photo is part of a long-term training documentation process,
+focused on consistency, control, and self-review rather than display.
+
 
 ## Identity
 
