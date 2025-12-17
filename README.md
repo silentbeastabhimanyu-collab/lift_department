@@ -218,4 +218,56 @@ This was not a casual walk.
 ## Notes
 This walk is treated as part of the training session,
 not as a separate or optional activity.
+# Silent Beast – Training Documentation
+
+This repository contains photo-based documentation of my physical training.
+It is not created for social media engagement, but for discipline, review,
+and long-term professional preparation.
+
+---
+
+## Purpose
+
+The purpose of this repository is to:
+- Maintain a visual record of consistent training
+- Document movement quality, control, and focus
+- Prepare for future roles involving training, mentoring, and leadership
+- Practice composure, clarity, and presence under physical stress
+
+---
+
+## Training Focus Areas
+
+- Strength training with controlled execution
+- Olympic lift foundations (Snatch, pulls, stability)
+- Balance, grip strength, and posture
+- Mental focus during fatigue
+- Discipline-based movement, not show-based activity
+
+---
+
+## Documentation Method
+
+- Photos are captured during real training sessions
+- No staged poses or artificial setups
+- Emphasis is on posture, effort, and control
+- Minimal expression, maximum intent
+
+---
+
+## Notes
+
+- This repository is a personal training journal
+- Content is uploaded selectively, not daily
+- Feedback is not expected; self-review is the priority
+
+---
+
+## Identity
+
+Silent Beast  
+Study · Tech · Lift · AI · CyberSec  
+
+Discipline over noise.  
+Process over validation.
 
