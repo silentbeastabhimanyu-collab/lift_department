@@ -304,4 +304,21 @@ Study · Tech · Lift · AI · CyberSec
 
 Discipline over noise.  
 Process over validation.
+This image documents a post-training moment focused on composure and presence.
+
+Key observations:
+- Calm body language after physical exertion
+- Upright posture and controlled movement
+- Awareness of surroundings without distraction
+- Transition from high-intensity effort to recovery
+- Readiness to communicate or observe as required
+
+Training intent:
+- Practice composure after stress
+- Build awareness and presence in public training spaces
+- Reinforce discipline beyond the lift itself
+- Prepare for future coaching, mentoring, and leadership roles
+
+This photo is part of a long-term training journal that emphasizes
+process, control, and consistency over performance display.
 
