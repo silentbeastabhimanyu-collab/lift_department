@@ -278,6 +278,23 @@ Training intent:
 
 This photo is part of a long-term training documentation process,
 focused on consistency, control, and self-review rather than display.
+This image documents a Type-2 Snatch with a deep squat catch.
+
+Key observations:
+- Explosive pull followed by rapid drop under the bar
+- Full-depth squat with stable mid-foot balance
+- Locked elbows and shoulder stability overhead
+- Upright torso and controlled recovery mechanics
+- Coach presence for technical supervision and safety
+
+Training intent:
+- Develop speed under the bar and confidence in deep catch
+- Improve overhead stability and mobility
+- Reinforce disciplined execution under load
+- Build competition-ready Olympic lifting patterns
+
+This photo is part of a long-term training journal focused on
+technique, control, and consistency rather than display.
 
 
 ## Identity
