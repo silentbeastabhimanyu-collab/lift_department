@@ -321,4 +321,91 @@ Training intent:
 
 This photo is part of a long-term training journal that emphasizes
 process, control, and consistency over performance display.
+# 🏋️ Lift Department | Silent Beast Abhimanyu
+
+Welcome to the **Lift Department**.
+
+This space represents more than just gym workouts.
+It represents **discipline, structure, patience, and silent strength**.
+
+Lifting is not about showing power.
+It is about **earning control over body and mind**.
+
+---
+
+## 🔥 What Lift Department Stands For
+
+- Olympic-style weightlifting mindset
+- Strength training with discipline
+- Long-term physical development
+- Consistency over motivation
+- Technique, patience, and recovery
+
+No shortcuts.  
+No noise.  
+Only work.
+
+---
+
+## 🧠 Training Philosophy
+
+> “The barbell never lies.”
+
+Every rep teaches:
+- Focus under pressure  
+- Respect for fundamentals  
+- Control before aggression  
+- Growth through repetition  
+
+Strength built here transfers to:
+- Studies
+- Technology
+- Life decisions
+
+---
+
+## 🏋️ Core Focus Areas
+
+- Compound lifts (strength foundation)
+- Technique improvement
+- Progressive overload (controlled)
+- Injury prevention & recovery
+- Mental toughness
+
+This department is about **process**, not ego.
+
+---
+
+## 📂 What You’ll Find Here
+
+- Training logs (structured & honest)
+- Lift discipline principles
+- Technique notes & reflections
+- Long-term strength journey documentation
+
+Each entry = one step stronger.
+
+---
+
+## 🎯 Long-Term Vision
+
+To build a body that:
+- Obeys discipline
+- Respects limits
+- Performs under pressure
+- Supports a higher mission in life
+
+Strength is a **tool**, not an identity.
+
+---
+
+## 📌 Motto
+
+**Lift in silence.  
+Build with patience.  
+Stand unbreakable.**
+
+---
+
+© Silent Beast Abhimanyu | Lift Department
 
